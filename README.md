@@ -12,7 +12,7 @@ UIKit
 INSTALLATION
 
 Navigate to the desired folder.
--git clone https://github.com/xiangormirko/memeMe-v1.0.git
--open the file title 'MemeMe v.01.xcodeproj'
+https://github.com/xiangormirko/memeMe-v2.0.git
+-open the file title 'MemeMe2.xcodeproj'
 -Thanks and enjoy!
 
